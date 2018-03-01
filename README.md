@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # phpsocket.io
 A server side alternative implementation of [socket.io](https://github.com/socketio/socket.io) in PHP based on [Workerman](https://github.com/walkor/Workerman).<br>
 
@@ -142,7 +141,4 @@ cd examples/chat
 
 # License
 MIT
-=======
-# socketio
-php做设备监听所要开启的服务
->>>>>>> d249ecaa8daa4b26b9b8f54c7fc7bc950b01ec78
+
